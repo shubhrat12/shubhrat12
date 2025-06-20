@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ashruj Gautam</h1>
 
 <p align="center">
-🎓 Master's in CS @ University at Buffalo | 🤖 AI/ML Specialist & 🛠️ Backend-First Engineer<br>
+🎓 Master's in CS @ University at Buffalo | 🤖 AI/ML Specialist & 🛠️ software engineer Engineer<br>
 I build intelligent systems that solve hard problems — from research assistants to medical diagnostics.
 </p>
 
