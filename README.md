@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashruj Gautam
 
-🎓 Master's in CS @ University at Buffalo | 🤖 AI/ML Specialist & 🛠️ Backend-First Engineer  
+🎓 Master's in CS @ University at Buffalo | 🤖 AI/ML Specialist & 🛠️ software Engineer  
 I build intelligent systems that solve hard problems — from scientific research assistants to medical diagnostics, from database-driven platforms to end-to-end software infrastructure.
 
 ---
