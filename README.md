@@ -1,8 +1,14 @@
 <h1 align="center">👋 Hi, I'm Ashruj Gautam</h1>
 
 <p align="center">
-🎓 Master's in CS @ University at Buffalo | 🤖 AI/ML Specialist & 🛠️ Software Engineer<br>
-I build intelligent systems that solve hard problems — from research assistants to medical diagnostics.
+🎓 Master's in CS @ University at Buffalo &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 AI/ML Enthusiast & SWE Explorer <br>
+🔗 <a href="mailto:ashrujgautam4@gmail.com">Email</a> • 
+<a href="https://linkedin.com/in/ashruj-gautam-abb842218">LinkedIn</a>
+</p>
+
+<p align="center">
+I build intelligent systems — from <strong>scientific RAG pipelines</strong> to <strong>medical diagnostics</strong>, <br>
+and love turning deep learning + Software engineering into real-world applications.
 </p>
 
 
