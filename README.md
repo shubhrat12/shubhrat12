@@ -13,7 +13,7 @@ I build intelligent systems that solve hard problems — from scientific researc
 - 💼 Open to roles in: **AI/ML Engineering**, **Fullstack Development**, **Software Engineering**, and **Applied Research**
 - 📫 Reach out:
   - [LinkedIn](https://linkedin.com/in/ashruj-gautam-abb842218)
-  - 📧 ashrujgautam4@example.com 
+  - 📧 ashrujgautam4@gmail.com 
 
 ---
 
