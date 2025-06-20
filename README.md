@@ -10,7 +10,7 @@ I build intelligent systems that solve hard problems — from scientific researc
 - 🚀 I enjoy building **production-grade AI systems** and **developer-focused tools** with measurable real-world impact
 - 💡 Passionate about the intersection of **LLMs**, **RAG**, **multimodal learning**, and **backend software engineering**
 - 🧰 Equally confident in training deep models or scaling fast APIs and databases
-- 💼 Open to roles in: **AI/ML Engineering**, **Backend Development**, **Software Engineering**, and **Applied Research**
+- 💼 Open to roles in: **AI/ML Engineering**, **Fullstack Development**, **Software Engineering**, and **Applied Research**
 - 📫 Reach out:
   - [LinkedIn](https://linkedin.com/in/ashruj-gautam-abb842218)
   - 📧 ashrujgautam4@example.com 
