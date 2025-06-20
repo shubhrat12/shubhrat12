@@ -17,7 +17,7 @@ and love turning deep learning + Software engineering into real-world applicatio
 ## 🧠 About Me
 
 - 🚀 I enjoy building **production-grade AI systems** and **developer-focused tools** with measurable real-world impact
-- 💡 Passionate about the intersection of **LLMs**, **RAG**, **multimodal learning**, and ** software engineering**
+- 💡 Passionate about the intersection of **LLMs**, **RAG**, **multimodal learning**, and **software engineering**
 - 🧰 Equally confident in training deep models or scaling fast APIs and databases
 - 💼 Open to roles in: **AI/ML Engineering**, **Fullstack Development**, **Software Engineering**, and **Applied Research**
 - 📫 Reach out:
