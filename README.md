@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Ashruj Gautam
+<h1 align="center">👋 Hi, I'm Ashruj Gautam</h1>
 
-🎓 Master's in CS @ University at Buffalo | 🤖 AI/ML Specialist & 🛠️ software Engineer  
-I build intelligent systems that solve hard problems — from scientific research assistants to medical diagnostics, from database-driven platforms to end-to-end software infrastructure.
+<p align="center">
+🎓 Master's in CS @ University at Buffalo | 🤖 AI/ML Specialist & 🛠️ Backend-First Engineer<br>
+I build intelligent systems that solve hard problems — from research assistants to medical diagnostics.
+</p>
+
 
 ---
 
