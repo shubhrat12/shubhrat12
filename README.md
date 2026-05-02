@@ -31,18 +31,18 @@ and love turning deep learning + Software engineering into real-world applicatio
 ### 🔬 [HireSphere](https://github.com/shubhrat12/Hiresphere)
 > Built a full-stack job search management platform with AI-driven resume analysis (Llama 3.3 70B via Groq), ATS optimization, keyword gap detection, and a Chrome Extension to clip job listings directly from LinkedIn and Indeed.
 
-💡 Built with FastAPI, React, PostgreSQL, and Llama 3.3 70B via Groq API
-🔗 Includes a Chrome Extension (Manifest V3) for one-click job clipping from LinkedIn & Indeed
-📊 AI analysis delivers match scores, missing keywords, ATS tips, and a rewritten resume summary
+-💡 Built with FastAPI, React, PostgreSQL, and Llama 3.3 70B via Groq API
+-🔗 Includes a Chrome Extension (Manifest V3) for one-click job clipping from LinkedIn & Indeed
+-📊 AI analysis delivers match scores, missing keywords, ATS tips, and a rewritten resume summary
 
 ---
 
 ### 🔬 [bitly-clone-project](https://github.com/shubhrat12/bitly-clone-project)
 > Built a high-performance URL shortening service with single-digit millisecond redirects, async click analytics, and geo/device parsing — engineered to handle massive traffic without blocking the Node.js event loop.
 
-💡 Built with Node.js, Express, PostgreSQL, Redis, BullMQ, and React (Vite + Tailwind)
-⚡ Decoupled redirect and analytics paths using a fire-and-forget BullMQ worker queue for non-blocking, high-volume click tracking
-🛠️ Conquered real-world engineering challenges, including cache data mismatches, BullMQ connection clashes, and aggressive browser caching
+-💡 Built with Node.js, Express, PostgreSQL, Redis, BullMQ, and React (Vite + Tailwind)
+-⚡ Decoupled redirect and analytics paths using a fire-and-forget BullMQ worker queue for non-blocking, high-volume click tracking
+-🛠️ Conquered real-world engineering challenges, including cache data mismatches, BullMQ connection clashes, and aggressive browser caching
 
 ---
 
