@@ -28,7 +28,7 @@ and love turning deep learning + Software engineering into real-world applicatio
 
 ## 🚀 Highlighted Projects
 
-### 🔬 [ResearchRAG – Scientific Research Assistant using RAG & Local LLMs](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/ResearchRAG-End-to-End-Scientific-Research-Assistant-using-RAG)
+### 🔬 [ResearchRAG – Scientific Research Assistant using RAG & Local LLMs](https://github.com/shubhrat12/ResearchRAG-End-to-End-Scientific-Research-Assistant-using-RAG)
 > Built an advanced Retrieval-Augmented Generation system for scientific PDFs — integrating section classification, citation graph analytics, figure detection, and local LLM generation (Mistral 7B).
 
 - 💡 Used Grobid, LayoutLM, ChromaDB, and fine-tuned BERT
@@ -37,7 +37,7 @@ and love turning deep learning + Software engineering into real-world applicatio
 
 ---
 
-### 🏥 [Multi-Modal Health Insights Platform](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/Multi-Modal-Health-Insights-Platform)
+### 🏥 [Multi-Modal Health Insights Platform](https://github.com/shubhrat12/Multi-Modal-Health-Insights-Platform))
 > AI diagnostic system combining X-ray imaging, clinical NLP, and tabular risk analytics into a unified medical assistant with prescription guidance.
 
 - 🩻 DenseNet121 (CheXpert) + BioBERT + MLP Ensemble (Kidney, Heart, Diabetes)
@@ -46,7 +46,7 @@ and love turning deep learning + Software engineering into real-world applicatio
 
 ---
 
-### 🧾 [InsightEdge – AI-Powered E-Commerce Analytics Platform](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/InsightEdge-AI-Powered-E-Commerce-Intelligence-Platform)
+### 🧾 [InsightEdge – AI-Powered E-Commerce Analytics Platform](https://github.com/shubhrat12/E-Commerce-Analytics-System-with-LLM-Augmented-Intelligence)
 > Production-grade PostgreSQL analytics engine with stored procedures, triggers, indexing, and planned LLM augmentation for feedback analysis.
 
 - 🧠 11+ table schema, optimized queries, and stored functions in PL/pgSQL
@@ -55,7 +55,7 @@ and love turning deep learning + Software engineering into real-world applicatio
 
 ---
 
-### 🍎 [Occlusion-Aware Apple Detection – YOLO Architecture](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/Occlusion_Aware_Apple_Detection_Using_Custom_YOLO_Architecture)
+### 🍎 [Occlusion-Aware Apple Detection – YOLO Architecture](https://github.com/shubhrat12/Occlusion-Aware-Apple-Detection-Using-Custom-YOLO-Architecture)
 > Custom YOLO variant optimized for occluded fruit detection in retail scenarios. Compared performance against SSD, Faster R-CNN.
 
 - 🖼️ Trained on MinneApple + COCO with resolution-aware tuning
