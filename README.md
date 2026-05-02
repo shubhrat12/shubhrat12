@@ -118,12 +118,6 @@ and love turning deep learning + Software engineering into real-world applicatio
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
----
-
-## 📊 GitHub Stats
-
-![Ashruj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhrat12&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrat12&layout=compact&theme=github_dark)
 
 ---
 
