@@ -37,7 +37,7 @@ and love turning deep learning + Software engineering into real-world applicatio
 
 ---
 
-### 🔬 [bitly-clone-project](https://github.com/shubhrat12/bitly-clone-project)
+### 🔬 [LinkForge](https://github.com/shubhrat12/bitly-clone-project)
 > Built a high-performance URL shortening service with single-digit millisecond redirects, async click analytics, and geo/device parsing — engineered to handle massive traffic without blocking the Node.js event loop.
 
 - 💡 Built with Node.js, Express, PostgreSQL, Redis, BullMQ, and React (Vite + Tailwind)
@@ -55,7 +55,7 @@ and love turning deep learning + Software engineering into real-world applicatio
 
 ---
 
-### 🏥 [Multi-Modal Health Insights Platform](https://github.com/shubhrat12/Multi-Modal-Health-Insights-Platform))
+### 🏥 [MediFusiion-AI](https://github.com/shubhrat12/Multi-Modal-Health-Insights-Platform))
 > AI diagnostic system combining X-ray imaging, clinical NLP, and tabular risk analytics into a unified medical assistant with prescription guidance.
 
 - 🩻 DenseNet121 (CheXpert) + BioBERT + MLP Ensemble (Kidney, Heart, Diabetes)
